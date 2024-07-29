@@ -1,4 +1,4 @@
-# Shiroi Deploy to Remote Server Workflow
+# Shiroi Deploy to Remote Server Workflows
 
 这是一个利用 GitHub Action 去构建 Shiroi 然后部署到远程服务器的工作流。
 
@@ -77,4 +77,4 @@ Fork 此项目，然后你需要填写下面的信息。
 ```sh
 pm2 startup
 pm2 save
-```
+```# Force trigger
