@@ -4,7 +4,7 @@
 
 对于私有服务器的部署体验是非常不友好的。第一，没有 Vercel 这样的全自动部署，也不能及时回滚。第二，Next.js 项目构建需要非常大的内存和 CPU 资源，一般的轻量服务器可能在构建过程中不是爆堆就是宕机了。
 
-## 目标
+## 目标.
 
 - 利用 GitHub 去构建一个通用产物，不受构建时的环境变量影响。（后者你可以通过 [一次构建多处部署 - Next.js Runtime Env
   ](https://innei.in/posts/tech/nextjs-runtime-env-and-build-once-deploy-many) 这篇文章了解更多）
